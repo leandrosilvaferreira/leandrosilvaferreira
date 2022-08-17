@@ -47,7 +47,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leandrosilvaferreira&theme=vue-dark&count_private=true&show_icons=true&locale=en" alt="leandrosilvaferreira" />
 </p>
 <br>
-<h3 align="center">My Badges:</h3>
+<h3 align="center">Trophies:</h3>
 <p align="center"> 
 <img src="https://github-profile-trophy.vercel.app/?username=leandrosilvaferreira" alt="leandrosilvaferreira" />
 </p>
