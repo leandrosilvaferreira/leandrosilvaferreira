@@ -1,4 +1,6 @@
-[![MasterHead](https://wallpaper.dog/large/20518448.png)](https://github.com/leandrosilvaferreira)
+<!--- [![MasterHead](https://wallpaper.dog/large/20518448.png)](https://github.com/leandrosilvaferreira) --->
+
+[![MasterHead](leandro-ferreira-github-skyline.gif)](https://instagram.com/leandro.zuck)
 
 <h1 align="center">Hi 👋, I'm Leandro Ferreira</h1>
 <h3 align="center">CTO at CompayzZ</h3>
