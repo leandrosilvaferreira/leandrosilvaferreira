@@ -3,7 +3,7 @@
 [![MasterHead](leandro-ferreira-github-skyline.gif)](https://instagram.com/leandro.zuck)
 
 <h1 align="center">Hi 👋, I'm Leandro Ferreira</h1>
-<h3 align="center">CTO at CompayZ</h3>
+<h3 align="center">CTO at Notyped</h3>
 
 <p align="center"> 
   
